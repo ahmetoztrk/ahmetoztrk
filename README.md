@@ -12,13 +12,13 @@
   <img  src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" alt="bootstrap" width="40" height="40"/> </a> 
   <img  src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="bootstrap" width="40" height="40"/> </a> 
   <img  src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <img  src="https://github.com/gilbarbara/logos/blob/master/logos/nodejs.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <img  src="https://github.com/gilbarbara/logos/blob/master/logos/express.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <img  src="https://github.com/gilbarbara/logos/blob/master/logos/mongodb.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <img  src="https://github.com/gilbarbara/logos/blob/master/logos/postgresql.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <img  src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <img  src="https://github.com/gilbarbara/logos/blob/master/logos/mysql.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <img  src="https://github.com/gilbarbara/logos/blob/master/logos/python.svg" alt="bootstrap" width="40" height="40"/> </a> 
+  <img  src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" alt="bootstrap" width="40" height="40"/> </a>
+  <img  src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/nodejs.svg" alt="bootstrap" width="40" height="40"/> </a> 
+  <img  src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/mongodb.svg" alt="bootstrap" width="40" height="40"/> </a> 
+  <img  src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/mysql.svg" alt="bootstrap" width="40" height="40"/> </a> 
+  <img  src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/postgresql.svg" alt="bootstrap" width="40" height="40"/> </a> 
+  <img  src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="bootstrap" width="40" height="40"/> </a> 
+ 
  
 
 
